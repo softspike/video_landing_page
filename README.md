@@ -4,7 +4,6 @@
 
 Project is created with:
 </br>
-* JavaScript
 * HTML 5
 * CSS 3
 
